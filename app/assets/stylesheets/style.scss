@@ -1,13 +1,13 @@
-.container wrapper{
-    max-width: 1120px;
+.container > .wrapper {
     margin: auto;
     padding: 0 1.5rem;
 }
-.form-control{
+
+.form-control {
     min-width: 330px;
 }
 
-.actions{
+.new_account > .actions {
     min-width: 330px;
     margin-top: 300px;
 }
